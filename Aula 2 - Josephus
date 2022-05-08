@@ -24,7 +24,6 @@ main (int argc, char ** argv)   //Inicio do main
 {
   //Declaracao de Variaveis
   Lista * listasoldados;
-  Lista * listasoldados1;
   int numSoldados = 41, posicaosoldado = 0;
   
   listasoldados = lst_cria();//criando lista de soldados
