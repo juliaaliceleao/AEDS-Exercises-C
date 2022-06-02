@@ -3,8 +3,8 @@
     -- juliaaliceleao@ufmg  --*/
     
 /*Descricao: um programa para determinar se a sequência
-de parênteses está bem formada (ou seja,
-parênt̃ofechados na ordem inversa
+de caracteres está bem formada (ou seja, se os caracteres foram fechados 
+na ordem inversa
 aquela em que foram abertos).*/
 
 //bibliotecas
