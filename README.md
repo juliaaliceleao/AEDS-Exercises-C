@@ -10,5 +10,4 @@
   <li>Arvores</li>
   <li>Grafos</li>
 </ul>
-<footer><img src="IMG_20220717_015040.png", alt="Logo">
-  <\footer>
+<img src="![IMG_20220717_015040](https://user-images.githubusercontent.com/104568516/181113899-6071b9e9-285b-42a6-a1ec-47ed7ce7e469.png)", alt="Logo">
