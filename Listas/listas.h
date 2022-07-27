@@ -1,39 +1,4 @@
-Lista
-Material
-Listas - Vídeos
-Última edição: 29 de mai.
-Material
-Uma explicação do Josephus
-Item postado em 3 de mai.
-Material
-Lista
-Última edição: 17 de abr.
 
-Aula_2__Listas.pdf
-PDF
-
-listas.c
-C
-
-listas.h
-C
-
-makefile
-Arquivo binário
-Revisão e Introdução
-Revisão e Introdução
-Material
-Ponteiros - Vídeos
-Última edição: 29 de mai.
-Material
-Makefile
-Item postado em 9 de mai.
-Material
-Como compilar com o VIM e o GCC
-Item postado em 4 de mai.
-Material
-Aulas 0 e 1 - Introdução e Revisão
-Item postado em 22 de mar.
 /*definindo lista encadeada*/
 struct lista{
 	int info;
